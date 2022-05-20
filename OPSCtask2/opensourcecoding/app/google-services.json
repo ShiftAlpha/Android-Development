@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "192983482465",
+    "firebase_url": "https://opensourcecoding-848f9.firebaseio.com",
+    "project_id": "opensourcecoding-848f9",
+    "storage_bucket": "opensourcecoding-848f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192983482465:android:8dae91da7bb25154376a20",
+        "android_client_info": {
+          "package_name": "com.opensourcecoding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192983482465-9rtfcji70bdoud23ki2dq5henjvtgnv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3J-mC4jpJwxy-p7dMZBAgmRGgIsFUOAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192983482465-9rtfcji70bdoud23ki2dq5henjvtgnv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
